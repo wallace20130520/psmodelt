@@ -3,6 +3,7 @@
    "troubleshootingModeEnabled":true,
    "extensions": [
    	   "mcc",
+      
        "backoffice",
        "platformbackoffice",
        "basecommercebackoffice",  
@@ -57,6 +58,11 @@
        "azurecloud",
        "cloudcommons",
        "cloudhotfolder",
+      "powertoolsstore",
+      "b2bcommercebackoffice",
+      "b2badmincockpit",
+      "b2bacceleratoraddon",
+      "commerceorgaddon",
        "azurecloudhotfolder"
    ],
    "storefrontAddons" : [
