@@ -154,6 +154,16 @@
             "value": "persona.production",
             "persona": "production"
         },
+       {
+            "key": "java.util.logging.ConsoleHandler.level",
+            "value": "FINE",
+            "persona": "production"
+        },
+       {
+            "key": "java.util.logging.ConsoleHandler.formatter",
+            "value": "FINE",
+            "persona": "production"
+        },
         {
      	 "key":"hac.webroot",
      	 "value":"/hac"
